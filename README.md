@@ -1,7 +1,7 @@
 # LeetCode-Top100
 Top 100 LeetCode problems-vJune-2020.<br />
  1. solutions:<br />
-####UN-LOCKED PROBLEMS:
+#### UN-LOCKED PROBLEMS:
 <br />    No.  Title	     	Acceptance/Difficulty  
 <br />    1	Two Sum    		45.5%	Easy	
 <br />    2	Add Two Numbers    		33.5%	Medium	
@@ -141,7 +141,7 @@ Top 100 LeetCode problems-vJune-2020.<br />
 <br />    454	4Sum II    		52.9%	Medium	
 
 
-####LOCKED PROBLEMS:
+#### LOCKED PROBLEMS:
 <br />    251	Flatten 2D Vector    		45.5%	Medium	
 <br />    253	Meeting Rooms II    		45.4%	Medium	
 <br />    269	Alien Dictionary    		33.3%	Hard	
