@@ -1,4 +1,4 @@
-1. Two Sum:
+1. Two Sum
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -8,7 +8,7 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
-2. Add Two Numbers:
+2. Add Two Numbers
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
@@ -18,7 +18,7 @@ Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
-3. Longest Substring Without Repeating Characters:
+3. Longest Substring Without Repeating Characters
 
 Given a string, find the length of the longest substring without repeating characters.
 
@@ -32,7 +32,7 @@ Input: "bbbbb"
 Output: 1
 Explanation: The answer is "b", with the length of 1.
 
-4. Median of Two Sorted Arrays:
+4. Median of Two Sorted Arrays
 
 There are two sorted arrays nums1 and nums2 of size m and n respectively.
 Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
@@ -48,7 +48,7 @@ nums1 = [1, 2]
 nums2 = [3, 4]
 The median is (2 + 3)/2 = 2.5
 
-5. Longest Palindromic Substring:
+5. Longest Palindromic Substring
 
 Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
 
@@ -61,7 +61,7 @@ Example 2:
 Input: "cbbd"
 Output: "bb"
 
-7. Reverse Integer:
+7. Reverse Integer
 
 Given a 32-bit signed integer, reverse digits of an integer.
 
@@ -73,7 +73,7 @@ Example 2:
 Input: -123
 Output: -321
 
-8. String to Integer (atoi):
+8. String to Integer (atoi)
 
 Implement atoi which converts a string to an integer.
 The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
@@ -95,7 +95,7 @@ Output: -42
 Explanation: The first non-whitespace character is '-', which is the minus sign.
              Then take as many numerical digits as possible, which gets 42.
              
-10. Regular Expression Matching:
+10. Regular Expression Matching
 
 Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.
 '.' Matches any single character.
@@ -113,7 +113,7 @@ p = "a"
 Output: false
 Explanation: "a" does not match the entire string "aa".
 
-11. Container With Most Water:
+11. Container With Most Water
 
 Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
 
@@ -123,7 +123,7 @@ Example:
 Input: [1,8,6,2,5,4,8,3,7]
 Output: 49
 
-13. Roman to Integer:
+13. Roman to Integer
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
                 Symbol       Value
@@ -150,7 +150,7 @@ Example 2:
 Input: "IV"
 Output: 4
 
-14. Longest Common Prefix:
+14. Longest Common Prefix
 
 Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
@@ -166,7 +166,7 @@ Explanation: There is no common prefix among the input strings.
 
 Note:All given inputs are in lowercase letters a-z.
 
-15. 3Sum:
+15. 3Sum
 
 Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
 
@@ -180,7 +180,7 @@ A solution set is:
   [-1, -1, 2]
 ]
 
-17. Letter Combinations of a Phone Number:
+17. Letter Combinations of a Phone Number
 
 Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
 A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
@@ -189,7 +189,7 @@ Example:
 Input: "23"
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 
-19. Remove Nth Node From End of List:
+19. Remove Nth Node From End of List
 
 Given a linked list, remove the n-th node from the end of list and return its head.
 
@@ -197,7 +197,7 @@ Example:
 Given linked list: 1->2->3->4->5, and n = 2.
 After removing the second node from the end, the linked list becomes 1->2->3->5.
 
-20. Valid Parentheses:
+20. Valid Parentheses
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 An input string is valid if:
@@ -213,7 +213,7 @@ Example 2:
 Input: "()[]{}"
 Output: true
 
-21. Merge Two Sorted Lists:
+21. Merge Two Sorted Lists
 
 Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.
 
@@ -221,7 +221,7 @@ Example:
 Input: 1->2->4, 1->3->4
 Output: 1->1->2->3->4->4
 
-22. Generate Parentheses:
+22. Generate Parentheses
 
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
@@ -234,7 +234,7 @@ For example, given n = 3, a solution set is:
   "()()()"
 ]
 
-23. Merge k Sorted Lists:
+23. Merge k Sorted Lists
 
 Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
 
@@ -247,7 +247,7 @@ Input:
 ]
 Output: 1->1->2->3->4->4->5->6
 
-26. Remove Duplicates from Sorted Array:
+26. Remove Duplicates from Sorted Array
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
@@ -257,7 +257,7 @@ Given nums = [1,1,2],
 Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.
 It doesn't matter what you leave beyond the returned length.
 
-28. Implement strStr():
+28. Implement strStr()
 
 Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
@@ -269,3 +269,267 @@ Example 2:
 Input: haystack = "aaaaa", needle = "bba"
 Output: -1
 
+29. Divide Two Integers
+
+Given two integers dividend and divisor, divide two integers without using multiplication, division and mod operator.
+Return the quotient after dividing dividend by divisor.
+The integer division should truncate toward zero, which means losing its fractional part. For example, truncate(8.345) = 8 and truncate(-2.7335) = -2.
+
+Example 1:
+Input: dividend = 10, divisor = 3
+Output: 3
+Explanation: 10/3 = truncate(3.33333..) = 3
+
+33. Search in Rotated Sorted Array
+
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+(i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
+You are given a target value to search. If found in the array return its index, otherwise return -1.
+You may assume no duplicate exists in the array.
+Your algorithm's runtime complexity must be in the order of O(log n).
+
+Example 1:
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+
+34. Find First and Last Position of Element in Sorted Array
+
+Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
+Your algorithm's runtime complexity must be in the order of O(log n).
+If the target is not found in the array, return [-1, -1].
+
+Example 1:
+Input: nums = [5,7,7,8,8,10], target = 8
+Output: [3,4]
+
+36. Valid Sudoku
+
+Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+Each row must contain the digits 1-9 without repetition.
+Each column must contain the digits 1-9 without repetition.
+Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+A partially filled sudoku which is valid.
+The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+
+Example 1:
+Input:
+[
+  ["5","3",".",".","7",".",".",".","."],
+  ["6",".",".","1","9","5",".",".","."],
+  [".","9","8",".",".",".",".","6","."],
+  ["8",".",".",".","6",".",".",".","3"],
+  ["4",".",".","8",".","3",".",".","1"],
+  ["7",".",".",".","2",".",".",".","6"],
+  [".","6",".",".",".",".","2","8","."],
+  [".",".",".","4","1","9",".",".","5"],
+  [".",".",".",".","8",".",".","7","9"]
+]
+Output: true
+
+38. Count and Say
+
+The count-and-say sequence is the sequence of integers with the first five terms as following:
+1.     1
+2.     11
+3.     21
+4.     1211
+5.     111221
+1 is read off as "one 1" or 11.
+11 is read off as "two 1s" or 21.
+21 is read off as "one 2, then one 1" or 1211.
+Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit.
+
+Note: Each term of the sequence of integers will be represented as a string.
+
+ 
+
+Example 1:
+Input: 4
+Output: "1211"
+Explanation: For n = 3 the term was "21" in which we have two groups "2" and "1", "2" can be read as "12" which means frequency = 1 and value = 2, the same way "1" is read as "11", so the answer is the concatenation of "12" and "11" which is "1211".
+
+41. First Missing Positive
+
+Given an unsorted integer array, find the smallest missing positive integer.
+
+Example 1:
+Input: [1,2,0]
+Output: 3
+
+Example 2:
+Input: [3,4,-1,1]
+Output: 2
+
+42. Trapping Rain Water
+
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+Example:
+Input: [0,1,0,2,1,0,1,3,2,1,2,1]
+Output: 6
+
+44. Wildcard Matching
+
+Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+'?' Matches any single character.
+'*' Matches any sequence of characters (including the empty sequence).
+The matching should cover the entire input string (not partial).
+
+Note:
+s could be empty and contains only lowercase letters a-z.
+p could be empty and contains only lowercase letters a-z, and characters like ? or *.
+
+Example 1:
+Input:
+s = "aa"
+p = "a"
+Output: false
+Explanation: "a" does not match the entire string "aa"
+
+46. Permutations
+
+Given a collection of distinct integers, return all possible permutations.
+
+Example:
+Input: [1,2,3]
+Output:
+[
+  [1,2,3],
+  [1,3,2],
+  [2,1,3],
+  [2,3,1],
+  [3,1,2],
+  [3,2,1]
+]
+
+48. Rotate Image
+
+You are given an n x n 2D matrix representing an image.
+Rotate the image by 90 degrees (clockwise).
+
+Note:You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
+Example 1:
+Given input matrix = 
+[
+  [1,2,3],
+  [4,5,6],
+  [7,8,9]
+],
+rotate the input matrix in-place such that it becomes:
+[
+  [7,4,1],
+  [8,5,2],
+  [9,6,3]
+]
+
+49. Group Anagrams
+
+Given an array of strings, group anagrams together.
+
+Example:
+
+Input: ["eat", "tea", "tan", "ate", "nat", "bat"],
+Output:
+[
+  ["ate","eat","tea"],
+  ["nat","tan"],
+  ["bat"]
+]
+
+50. Pow(x, n)
+
+Implement pow(x, n), which calculates x raised to the power n (xn).
+
+Example 1:
+Input: 2.00000, 10
+Output: 1024.00000
+
+Example 2:
+Input: 2.10000, 3
+Output: 9.26100
+
+53. Maximum Subarray
+
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+Example:
+Input: [-2,1,-3,4,-1,2,1,-5,4],
+Output: 6
+Explanation: [4,-1,2,1] has the largest sum = 6.
+
+54. Spiral Matrix
+
+Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
+
+Example 1:
+Input:
+[
+ [ 1, 2, 3 ],
+ [ 4, 5, 6 ],
+ [ 7, 8, 9 ]
+]
+Output: [1,2,3,6,9,8,7,4,5]
+
+55. Jump Game
+
+Given an array of non-negative integers, you are initially positioned at the first index of the array.
+Each element in the array represents your maximum jump length at that position.
+Determine if you are able to reach the last index.
+
+Example 1:
+Input: nums = [2,3,1,1,4]
+Output: true
+Explanation: Jump 1 step from index 0 to 1, then 3 steps to the last index.
+
+56. Merge Intervals
+
+Given a collection of intervals, merge all overlapping intervals.
+
+Example 1:
+Input: [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlaps, merge them into [1,6].
+
+62. Unique Paths
+
+A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+How many possible unique paths are there?
+
+Example 1:
+Input: m = 3, n = 2
+Output: 3
+Explanation:
+From the top-left corner, there are a total of 3 ways to reach the bottom-right corner:
+1. Right -> Right -> Down
+2. Right -> Down -> Right
+3. Down -> Right -> Right
+
+66. Plus One
+
+Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
+The digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit.
+You may assume the integer does not contain any leading zero, except the number 0 itself.
+
+Example 1:
+Input: [1,2,3]
+Output: [1,2,4]
+Explanation: The array represents the integer 123.
+
+69. Sqrt(x)
+
+Implement int sqrt(int x).
+Compute and return the square root of x, where x is guaranteed to be a non-negative integer.
+Since the return type is an integer, the decimal digits are truncated and only the integer part of the result is returned.
+
+Example 1:
+Input: 4
+Output: 2
+
+Example 2:
+Input: 8
+Output: 2
+Explanation: The square root of 8 is 2.82842..., and since 
+             the decimal part is truncated, 2 is returned.
+          
