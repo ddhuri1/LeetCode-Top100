@@ -129,7 +129,7 @@ Top 100 LeetCode problems-vJune-2020.<br />
 <br />    334	Increasing Triplet Subsequence    		40.0%	Medium
 <br />    341	Flatten Nested List Iterator    		52.4%	Medium	
 <br />    344	Reverse String    		67.9%	Easy	
-<br />    <br />    347	Top K Frequent Elements    		60.2%	Medium	
+<br />    347	Top K Frequent Elements    		60.2%	Medium	
 <br />    350	Intersection of Two Arrays II    		51.1%	Easy	
 <br />    371	Sum of Two Integers    		50.7%	Easy	
 <br />    378	Kth Smallest Element in a Sorted Matrix    		53.7%	Medium	
