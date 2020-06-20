@@ -1,5 +1,5 @@
-# LeetCode-Top100
-Top 100 LeetCode problems-vJune-2020.<br />
+# LeetCode-TopProblems
+Top LeetCode problems-vJune-2020.<br />
  1. solutions:<br />
 #### UN-LOCKED PROBLEMS:
 <br />    No.  Title	     	Acceptance/Difficulty  
