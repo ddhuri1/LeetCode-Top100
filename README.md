@@ -82,7 +82,6 @@ Top LeetCode problems-vJune-2020.<br />
 <br />    155	Min Stack    		43.9%	Easy	
 <br />    160	Intersection of Two Linked Lists    		39.7%	Easy	
 <br />    162	Find Peak Element    		43.1%	Medium	
-<br />    163	Missing Ranges    		24.2%	Medium	
 <br />    166	Fraction to Recurring Decimal    		21.3%	Medium	
 <br />    169	Majority Element    		58.2%	Easy	
 <br />    171	Excel Sheet Column Number    		54.1%	Easy	
@@ -142,6 +141,7 @@ Top LeetCode problems-vJune-2020.<br />
 
 
 #### LOCKED PROBLEMS:
+<br />    163	Missing Ranges    		24.1%	Medium	
 <br />    251	Flatten 2D Vector    		45.5%	Medium	
 <br />    253	Meeting Rooms II    		45.4%	Medium	
 <br />    269	Alien Dictionary    		33.3%	Hard	
@@ -149,4 +149,3 @@ Top LeetCode problems-vJune-2020.<br />
 <br />    285	Inorder Successor in BST    		39.6%	Medium	
 <br />    308	Range Sum Query 2D - Mutable    		35.1%	Hard	
 <br />    348	Design Tic-Tac-Toe    		53.8%	Medium	
-|127|[ Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](./solutions/127.%20Word%20Ladder.java)|9 ms|
