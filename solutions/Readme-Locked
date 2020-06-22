@@ -1,1 +1,150 @@
+163. Missing Ranges
 
+Given a sorted integer array nums, where the range of elements are in the inclusive range [lower, upper], return its missing ranges.
+
+Example:
+Input: nums = [0, 1, 3, 50, 75], lower = 0 and upper = 99,
+Output: ["2", "4->49", "51->74", "76->99"]
+
+348. Design Tic-Tac-Toe
+
+Design a Tic-tac-toe game that is played between two players on a n x n grid.
+You may assume the following rules:
+A move is guaranteed to be valid and is placed on an empty block.
+Once a winning condition is reached, no more moves is allowed.
+A player who succeeds in placing n of their marks in a horizontal, vertical, or diagonal row wins the game.
+Example:
+Given n = 3, assume that player 1 is "X" and player 2 is "O" in the board.
+
+TicTacToe toe = new TicTacToe(3);
+toe.move(0, 0, 1); -> Returns 0 (no one wins)
+|X| | |
+| | | |    // Player 1 makes a move at (0, 0).
+| | | 
+toe.move(0, 2, 2); -> Returns 0 (no one wins)
+|X| |O|
+| | | |    // Player 2 makes a move at (0, 2).
+| | | |
+toe.move(2, 2, 1); -> Returns 0 (no one wins)
+|X| |O|
+| | | |    // Player 1 makes a move at (2, 2).
+| | |X|
+toe.move(1, 1, 2); -> Returns 0 (no one wins)
+|X| |O|
+| |O| |    // Player 2 makes a move at (1, 1).
+| | |X|
+toe.move(2, 0, 1); -> Returns 0 (no one wins)
+|X| |O|
+| |O| |    // Player 1 makes a move at (2, 0).
+|X| |X|
+toe.move(1, 0, 2); -> Returns 0 (no one wins)
+|X| |O|
+|O|O| |    // Player 2 makes a move at (1, 0).
+|X| |X|
+toe.move(2, 1, 1); -> Returns 1 (player 1 wins)
+|X| |O|
+|O|O| |    // Player 1 makes a move at (2, 1).
+|X|X|X|
+
+340. Longest Substring with At Most K Distinct Characters
+
+Given a string, find the length of the longest substring T that contains at most k distinct characters.
+
+Example 1:
+Input: s = "eceba", k = 2
+Output: 3
+Explanation: T is "ece" which its length is 3.
+
+308. Range Sum Query 2D - Mutable
+
+Given a 2D matrix matrix, find the sum of the elements inside the rectangle defined by its upper left corner (row1, col1) 
+and lower right corner (row2, col2).
+Range Sum Query 2D
+The above rectangle (with the red border) is defined by (row1, col1) = (2, 1) and (row2, col2) = (4, 3), which contains sum = 8.
+
+Example:
+Given matrix = [
+  [3, 0, 1, 4, 2],
+  [5, 6, 3, 2, 1],
+  [1, 2, 0, 1, 5],
+  [4, 1, 0, 1, 7],
+  [1, 0, 3, 0, 5]
+]
+sumRegion(2, 1, 4, 3) -> 8
+update(3, 2, 2)
+sumRegion(2, 1, 4, 3) -> 10
+
+285. Inorder Successor in BST
+
+Given a binary search tree and a node in it, find the in-order successor of that node in the BST.
+The successor of a node p is the node with the smallest key greater than p.val.
+
+Example 1:
+Input: root = [2,1,3], p = 1
+Output: 2
+Explanation: 1's in-order successor node is 2. Note that both p and the return value is of TreeNode type.
+
+277. Find the Celebrity
+
+Suppose you are at a party with n people (labeled from 0 to n - 1) and among them, there may exist one celebrity. The definition of a celebrity is that all the other n - 1 
+people know him/her but he/she does not know any of them.
+Now you want to find out who the celebrity is or verify that there is not one. The only thing you are allowed to do is to ask questions
+like: "Hi, A. Do you know B?" to get information of whether A knows B. You need to find out the celebrity (or verify there is not one)
+by asking as few questions as possible (in the asymptotic sense).
+You are given a helper function bool knows(a, b) which tells you whether A knows B.
+Implement a function int findCelebrity(n). There will be exactly one celebrity if he/she is in the party. Return the celebrity's label
+if there is a celebrity in the party. If there is no celebrity, return -1.
+
+Example 1:
+Input: graph = [
+  [1,1,0],
+  [0,1,0],
+  [1,1,1]
+]
+Output: 1
+Explanation: There are three persons labeled with 0, 1 and 2. graph[i][j] = 1 means person i knows person j, 
+otherwise graph[i][j] = 0 means person i does not know person j. The celebrity is the person labeled as 1 because both 0 and 2 know him but 1 does not know anybody.
+
+269. Alien Dictionary
+
+There is a new alien language which uses the latin alphabet. However, the order among letters are unknown to you. 
+You receive a list of non-empty words from the dictionary, where words are sorted lexicographically by the rules of this new language. 
+Derive the order of letters in this language.
+
+Example 1:
+Input:
+[
+  "wrt",
+  "wrf",
+  "er",
+  "ett",
+  "rftt"
+]
+Output: "wertf"
+
+253. Meeting Rooms II
+
+Given an array of meeting time intervals consisting of start and end times [[s1,e1],[s2,e2],...] (si < ei),
+find the minimum number of conference rooms required.
+
+Example 1:
+Input: [[0, 30],[5, 10],[15, 20]]
+Output: 2
+
+Example 2:
+Input: [[7,10],[2,4]]
+Output: 1
+
+251. Flatten 2D Vector
+
+Design and implement an iterator to flatten a 2d vector. It should support the following operations: next and hasNext.
+
+Exaple:
+Vector2D iterator = new Vector2D([[1,2],[3],[4]]);
+iterator.next(); // return 1
+iterator.next(); // return 2
+iterator.next(); // return 3
+iterator.hasNext(); // return true
+iterator.hasNext(); // return true
+iterator.next(); // return 4
+iterator.hasNext(); // return false
