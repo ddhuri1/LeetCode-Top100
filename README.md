@@ -145,11 +145,33 @@ Top LeetCode problems-vJune-2020.<br />
 
 #### LOCKED PROBLEMS:
 1. solutions/LeetTopInterview:<br />
-     163	Missing Ranges    		24.1%	Medium	
- <br />    251	Flatten 2D Vector    		45.5%	Medium	
-  <br />   253	Meeting Rooms II    		45.4%	Medium	
-  <br />   269	Alien Dictionary    		33.3%	Hard	
-  <br />   277	Find the Celebrity    		41.4%	Medium	
-  <br />   285	Inorder Successor in BST    		39.6%	Medium	
-  <br />   308	Range Sum Query 2D - Mutable    		35.1%	Hard	
-  <br />   348	Design Tic-Tac-Toe    		53.8%	Medium	
+
+|      No.|     	 Title	                  |  Acceptance	|               Difficulty             |
+| :---|:---                                |      :---      |:--- |
+ |    163	|Missing Ranges   | 		24.1%|	Medium	|
+|   251|	Flatten 2D Vector   | 		45.5%	|Medium	|
+ |  253	|Meeting Rooms II    |		45.4%	|Medium	|
+  |  269|	Alien Dictionary  |  		33.3%|	Hard	|
+  |  277|	Find the Celebrity   | 		41.4%	|Medium	|
+ |   285|	Inorder Successor in BST   | 		39.6%	|Medium	|
+ |   308	|Range Sum Query 2D - Mutable |   		35.1%|	Hard|	
+|   348|	Design Tic-Tac-Toe   | 		53.8%|	Medium|	
+
+
+#### Extras:
+1. solutions/LeetExtrasLiked:
+
+|      No.|     	 Title	                  | Description            |
+| :---|:---                                |      :---      |
+|  85   |    Maximal Rectangle          |        https://leetcode.com/problems/maximal-rectangle/   |            
+|   96  |      Unique Binary Search Trees     |    https://leetcode.com/problems/unique-binary-search-trees/       |            
+| 114    |  Flatten Binary Tree to Linked List            |       https://leetcode.com/problems/flatten-binary-tree-to-linked-list/    |           
+|  337   |      	House Robber III        |     https://leetcode.com/problems/house-robber-iii/      |            
+| 406    |     Queue Reconstruction by Height         |     https://leetcode.com/problems/queue-reconstruction-by-height/      |            
+|   416  |        	Partition Equal Subset Sum      | https://leetcode.com/problems/partition-equal-subset-sum/          |           
+|437     |      Path Sum III        |     https://leetcode.com/problems/path-sum-iii/      |            
+| 494    |    Target Sum      |           https://leetcode.com/problems/target-sum/|            
+| 581    |    Shortest Unsorted Continuous Subarray        |    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/       |           
+| 617    |     Merge Two Binary Trees         |      https://leetcode.com/problems/merge-two-binary-trees/     |            
+|    647 |      	Palindromic Substrings        |       https://leetcode.com/problems/palindromic-substrings/    |           
+|   739  |      Daily Temperatures    |      https://leetcode.com/problems/daily-temperatures/     |            
