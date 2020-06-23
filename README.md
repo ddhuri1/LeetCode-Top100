@@ -159,7 +159,7 @@ Top LeetCode problems-vJune-2020.<br />
 
 
 #### Extras:
-1. solutions/LeetExtrasLiked:
+1. solutions:
 
 |      No.|     	 Title	                  | Description            |
 | :---|:---                                |      :---      |
