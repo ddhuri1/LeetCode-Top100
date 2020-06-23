@@ -9,7 +9,7 @@ Top LeetCode problems-vJune-2020.<br />
  |   2|	Add Two Numbers |   		33.5%|	Medium	|
  |   3|	Longest Substring Without Repeating Characters |   		30.1%|	Medium	|
  | 4	|Median of Two Sorted Arrays|   		29.2%	|Hard	|
- |  5	|Longest Palindromic Substring    		29.3%	|Medium	|
+ |  5	|Longest Palindromic Substring   | 		29.3%	|Medium	|
  | 7	|Reverse Integer   | 		25.7%	|Easy	|
  |  8	|String to Integer (atoi)  |  		15.3%	|Medium	|
   | 10	|Regular Expression Matching  | 		26.6%|	Hard	|
@@ -23,7 +23,7 @@ Top LeetCode problems-vJune-2020.<br />
 |  21	|Merge Two Sorted Lists    |		52.9%|	Easy	|
 |22|	Generate Parentheses  |  		61.8%|	Medium	|
 |  23|	Merge k Sorted Lists   | 		39.6%|	Hard	|
-| 26|	Remove Duplicates from Sorted Array    |		44.7%	Easy	|
+| 26|	Remove Duplicates from Sorted Array    |		44.7%|	Easy	|
 |28	|Implement strStr()    	|	34.3%	|Easy	|
 | 29	|Divide Two Integers    |		16.3%	|Medium	|
 | 33	|Search in Rotated Sorted Array    		|34.4%|	Medium	|
@@ -108,8 +108,8 @@ Top LeetCode problems-vJune-2020.<br />
  |     227|	Basic Calculator II   | 		36.5%	|Medium	|
  |230|	Kth Smallest Element in a BST  |  		59.4%	|Medium	|
  |     234|	Palindrome Linked List  |  		38.9%	|Easy	|
-    |  236	|Lowest Common Ancestor of a Binary Tree|    		44.7%|	Medium	|
-     |237|	Delete Node in a Linked List   | 		62.8%|	Easy	|
+ |  236	|Lowest Common Ancestor of a Binary Tree|    		44.7%|	Medium	|
+ |237|	Delete Node in a Linked List   | 		62.8%|	Easy	|
  |     238	|Product of Array Except Self |   		59.7%|	Medium	|
  |     239	|Sliding Window Maximum  | 		42.4%	|Hard	|
  |     240	|Search a 2D Matrix II   | 		42.9%|	Medium	|
@@ -128,19 +128,19 @@ Top LeetCode problems-vJune-2020.<br />
 |      326	|Power of Three    	|	42.0%|	Easy|	
  |     328	|Odd Even Linked List |  		55.2%|	Medium|	
   |    329	|Longest Increasing Path in a Matrix   | 		43.0%|	Hard|	
-    |  334	|Increasing Triplet Subsequence    |		40.0%|	Medium|
-    |  341	|Flatten Nested List Iterator  |  		52.4%|	Medium|	
-     |344|	Reverse String   | 		67.9%|	Easy|	
-   |   347	|Top K Frequent Elements   | 		60.2%|	Medium|	
-  |    350	|Intersection of Two Arrays II   | 		51.1%|	Easy|	
-    |  371	|Sum of Two Integers   | 		50.7%|	Easy|	
-   |  378	|Kth Smallest Element in a Sorted Matrix  |  		53.7%|	Medium|	
-    | 380	|Insert Delete GetRandom O(1) |   		47.1%|	Medium|	
-   |  384	|Shuffle an Array    |		52.4%|	Medium|	
-     |387	|First Unique Character in a String |   		53.2%|	Easy|	
-    |395	|Longest Substring with At Least K Repeating Characters  |  		40.9%|	Medium|	
-     |412	|Fizz Buzz    |		61.9%|	Easy|	
-     |454	|4Sum II  |  		52.9%|	Medium|	
+|  334	|Increasing Triplet Subsequence    |		40.0%|	Medium|
+|  341	|Flatten Nested List Iterator  |  		52.4%|	Medium|	
+|344|	Reverse String   | 		67.9%|	Easy|	
+|  347	|Top K Frequent Elements   | 		60.2%|	Medium|	
+|    350	|Intersection of Two Arrays II   | 		51.1%|	Easy|	
+|  371	|Sum of Two Integers   | 		50.7%|	Easy|	
+|  378	|Kth Smallest Element in a Sorted Matrix  |  		53.7%|	Medium|	
+| 380	|Insert Delete GetRandom O(1) |   		47.1%|	Medium|	
+|  384	|Shuffle an Array    |		52.4%|	Medium|	
+ |387	|First Unique Character in a String |   		53.2%|	Easy|	
+|395	|Longest Substring with At Least K Repeating Characters  |  		40.9%|	Medium|	
+ |412	|Fizz Buzz    |		61.9%|	Easy|	
+|454	|4Sum II  |  		52.9%|	Medium|	
 
 
 #### LOCKED PROBLEMS:
