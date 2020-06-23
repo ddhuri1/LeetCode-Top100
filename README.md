@@ -158,20 +158,3 @@ Top LeetCode problems-vJune-2020.<br />
 |   348|	Design Tic-Tac-Toe   | 		53.8%|	Medium|	
 
 
-#### Extras:
-1. solutions:
-
-|      No.|     	 Title	                  | Description            |
-| :---|:---                                |      :---      |
-|  85   |    Maximal Rectangle          |        https://leetcode.com/problems/maximal-rectangle/   |            
-|   96  |      Unique Binary Search Trees     |    https://leetcode.com/problems/unique-binary-search-trees/       |            
-| 114    |  Flatten Binary Tree to Linked List            |       https://leetcode.com/problems/flatten-binary-tree-to-linked-list/    |           
-|  337   |      	House Robber III        |     https://leetcode.com/problems/house-robber-iii/      |            
-| 406    |     Queue Reconstruction by Height         |     https://leetcode.com/problems/queue-reconstruction-by-height/      |            
-|   416  |        	Partition Equal Subset Sum      | https://leetcode.com/problems/partition-equal-subset-sum/          |           
-|437     |      Path Sum III        |     https://leetcode.com/problems/path-sum-iii/      |            
-| 494    |    Target Sum      |           https://leetcode.com/problems/target-sum/|            
-| 581    |    Shortest Unsorted Continuous Subarray        |    https://leetcode.com/problems/shortest-unsorted-continuous-subarray/       |           
-| 617    |     Merge Two Binary Trees         |      https://leetcode.com/problems/merge-two-binary-trees/     |            
-|    647 |      	Palindromic Substrings        |       https://leetcode.com/problems/palindromic-substrings/    |           
-|   739  |      Daily Temperatures    |      https://leetcode.com/problems/daily-temperatures/     |            
